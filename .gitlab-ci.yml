@@ -1,0 +1,4 @@
+# image: docker:stable
+
+test:
+  script: echo Complete
